@@ -14,7 +14,7 @@ while n < 5:
     n += 1
 c = tuple(c)
 
-print("спортивная команда", c)
+print("спортивная команда ", c)
 print(len(c))
 print(sorted(c))
 for c in c:
